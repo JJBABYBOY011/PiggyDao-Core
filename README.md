@@ -60,7 +60,7 @@ not straightforward.
 Translations
 ------------
 
-**Translation workflow is not yet set up for Kylacoin Core.  For strings which are common to Bitcoin Core, see below.**
+**Translation workflow is not yet set up for PiggyDao Core.  For strings which are common to Bitcoin Core, see below.**
 
 Changes to translations as well as new translations can be submitted to
 [Bitcoin Core's Transifex page](https://www.transifex.com/bitcoin/bitcoin/).

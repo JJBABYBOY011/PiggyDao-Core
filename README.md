@@ -1,12 +1,12 @@
-Kylacoin Core integration/staging tree
+Piggy Dao core 
 =====================================
 
-https://kylacoin.com
+https://Piggydao.com
 
-What is Kylacoin Core? 
+What is Piggydao Core? 
 ----------------
 
-Kylacoin Core connects to the Kylacoin peer-to-peer network to download and fully
+PiggyDao Core connects to the Piggy DAO coin peer-to-peer network to download and fully
 validate blocks and transactions. It also includes a wallet and graphical user
 interface, which can be optionally built.
 
@@ -15,7 +15,7 @@ Further information about Kylacoin Core is available in the [doc folder](/doc).
 License
 -------
 
-Kylacoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Piggy DAO Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process

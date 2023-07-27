@@ -10,7 +10,7 @@ PiggyDao Core connects to the Piggy DAO coin peer-to-peer network to download an
 validate blocks and transactions. It also includes a wallet and graphical user
 interface, which can be optionally built.
 
-Further information about Kylacoin Core is available in the [doc folder](/doc).
+Further information about PiggyDao Core is available in the [doc folder](/doc).
 
 License
 -------
@@ -22,7 +22,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built (see `doc/build-*.md` for instructions) and tested, but it is not guaranteed to be
-completely stable. [Tags](https://github.com/kylacoin/kylacoin/tags) are created
+completely stable. [Tags](https://github.com/Piggydao/Piggydao/tags) are created
 regularly from release branches to indicate new official, stable release versions of Kylacoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
